@@ -158,7 +158,7 @@ public class UserRegistration
                     break;
                     
                 default:
-                System.out.println("A invalid character was entered");
+                System.out.println("A invalid character was entered!");
             }
         
 //    break;
